@@ -327,6 +327,22 @@
 		display: inline-block;
 		margin-bottom: 10px;
 	}
+	
+		.menu-meta ul .drop-down-menu ul {
+		width: 225px;
+	}
+	
+	.menu-meta ul li ul li {
+		padding: 10px 5px;
+	}
+	
+	.menu-meta ul li ul {
+		width: 220px;
+	}
+	
+	.menu-meta ul {
+		line-height: 10px;
+	}
 }
 
 
